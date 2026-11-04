@@ -1,0 +1,9 @@
+@media screen and (max-width:480px) {
+  .first-section{
+    padding: 0px 40px;
+  }
+
+  .nav-link{
+    font-size: 20px;
+  }
+}

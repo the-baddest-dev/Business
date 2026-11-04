@@ -1,0 +1,41 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  /* font-family: "Source Sans 3", sans-serif; */
+    font-family: "Urbanist", sans-serif;
+}
+
+.first-section {
+  background-color: #212529;
+  min-height: 500px;
+  padding: 0px 300px;
+}
+
+.nav-three-color {
+  color: #9b9d9e;
+}
+
+.nav-three-color:hover {
+  color: #c7c8c9;
+}
+
+.business {
+  padding-top: 80px;
+  font-family: "Urbanist", sans-serif;
+}
+
+.business h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
