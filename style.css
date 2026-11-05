@@ -34,10 +34,16 @@ body {
   padding-top: 80px;
   font-family: "Urbanist", sans-serif;
   /* border: 2px solid yellow; */
-  max-width: 500px;
+  /* max-width: 580px; */
 }
 
 .business h1 {
   font-size: 36px;
   font-weight: 700;
+  max-width: 500px;
+}
+
+.business p:nth-child(2){
+  max-width: 575px;
+  color: #909294;
 }
